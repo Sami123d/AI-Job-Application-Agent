@@ -669,7 +669,7 @@ If you find this project helpful, please consider giving it a star on GitHub!
 *Empowering job seekers with AI-powered application automation.*
 
 ## Attribution
-This project is based on [Ismail-2001/AI-Job-Application-Agent](https://github.com/Ismail-2001/AI-Job-Application-Agent), licensed under the MIT License.
-Original author: Ismail Sajid (Ismail-2001).
-Modifications in this repository are by Sami Ahmed (sami.ahmed@ztech.com.pk).
-The original LICENSE file and its copyright notice are preserved unchanged below.
+This repository is an unmodified copy of [Ismail-2001/AI-Job-Application-Agent](https://github.com/Ismail-2001/AI-Job-Application-Agent), imported on 2026-09-23. No code changes have been made yet.
+The code is licensed under the MIT License. The LICENSE file and its copyright notice ("Copyright (c) 2026 Ismail Sajid") are preserved unchanged.
+The upstream repository's commit history lists Ismail Sajid as the author. That history was not carried over into this import; see the upstream repository for it.
+Imported and maintained by [Sami123d](https://github.com/Sami123d). Any future changes will be listed under "Changes in this repository" below.
