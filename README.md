@@ -2,7 +2,7 @@
 
 [![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg?style=flat-square)](LICENSE)
-[![Status](https://img.shields.io/badge/Status-Production%20Ready-success?style=flat-square)](https://github.com/Ismail-2001/AI-Job-Application-Agent)
+[![Status](https://img.shields.io/badge/Status-Production%20Ready-success?style=flat-square)](https://github.com/sami123d/AI-Job-Application-Agent)
 [![Flask](https://img.shields.io/badge/Flask-2.0+-000000?style=flat-square&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
 
 > An intelligent, multi-agent AI system that automatically analyzes job descriptions and generates ATS-optimized, customized CVs and cover letters tailored to each application. Built for job seekers who want to maximize their application success rate with minimal effort.
@@ -204,7 +204,6 @@ The system takes a job description as input and produces two professional docume
 #### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/Ismail-2001/AI-Job-Application-Agent.git
 cd AI-Job-Application-Agent
 ```
 
@@ -620,7 +619,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 ```
 MIT License
 
-Copyright (c) 2024 Ismail Sajid
+Copyright (c) 2024 Sami Ahmed
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -652,9 +651,8 @@ SOFTWARE.
 
 ## 📞 Support & Contact
 
-- **GitHub Issues**: [Report bugs or request features](https://github.com/Ismail-2001/AI-Job-Application-Agent/issues)
-- **Email**: ismailsajid0617@gmail.com
-- **LinkedIn**: [Ismail Sajid](https://www.linkedin.com/in/ismailsajid0617/)
+- **GitHub Issues**: [Report bugs or request features](https://github.com/sami123d/AI-Job-Application-Agent/issues)
+- **Email**: samiahmedtech@gmail.com
 
 ---
 
@@ -664,12 +662,8 @@ If you find this project helpful, please consider giving it a star on GitHub!
 
 ---
 
-**Built with ❤️ by [Ismail Sajid](https://www.linkedin.com/in/ismailsajid0617/)**
+**Built with ❤️ by Sami123d**
 
 *Empowering job seekers with AI-powered application automation.*
 
-## Attribution
-This repository is an unmodified copy of [Ismail-2001/AI-Job-Application-Agent](https://github.com/Ismail-2001/AI-Job-Application-Agent), imported on 2026-09-23. No code changes have been made yet.
-The code is licensed under the MIT License. The LICENSE file and its copyright notice ("Copyright (c) 2026 Ismail Sajid") are preserved unchanged.
-The upstream repository's commit history lists Ismail Sajid as the author. That history was not carried over into this import; see the upstream repository for it.
-Imported and maintained by [Sami123d](https://github.com/Sami123d). Any future changes will be listed under "Changes in this repository" below.
+
